@@ -1,0 +1,4 @@
+(executable
+ (name pexe)
+ (public_name pexe)
+ (libraries console.lib))
